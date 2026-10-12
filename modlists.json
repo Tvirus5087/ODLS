@@ -1,0 +1,44 @@
+[
+[
+  {
+    "title": "Our Dark Lady Serana",
+    "description": "Serana Dead Sexy - The Queen of Screams: The Official Collection with everything you need and complementing additions. Strongly recommend you see what it's about: https://www.nexusmods.com/skyrimspecialedition/mods/73589",
+    "author": "Tvirus5087",
+    "maintainers": [
+      "github/Tvirus5087"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Horror",
+      "Dark Fantasy",
+      "DLC Required"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Tvirus5087/ODLS/main/splash.png",
+      "readme": "https://raw.githubusercontent.com/Tvirus5087/ODLS/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ODLS.wabbajack_910dc2ac-4dc3-4e17-97b5-778a0f94a616",
+      "machineURL": "ODLS",
+      "discordURL": "https://discord.gg/nJjTyhEECb",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "lmqqnhQ9E3U=",
+      "Size": 12900364188,
+      "NumberOfArchives": 1826,
+      "SizeOfArchives": 196742417074,
+      "NumberOfInstalledFiles": 579288,
+      "SizeOfInstalledFiles": 410418954959,
+      "TotalSize": 607161372033
+    },
+    "version": "10.0.0",
+    "dateCreated": "2025-01-01T00:00:00Z",
+    "dateUpdated": "2026-10-12T00:45:58.5847359Z",
+    "repositoryName": ""
+  }
+]
